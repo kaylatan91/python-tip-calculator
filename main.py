@@ -3,8 +3,8 @@
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
 #Format result to 2 decimal places = 33.60
 
+#Introduction
 print("Welcome to the tip calculator!")
-
 #Questions 
 bill = float(input("What was the total bill? "))
 tip = int(input("What percentage tip would you like to give? 15, 18, or 20? "))
